@@ -1,3 +1,8 @@
 For Merging Purpose
 WTF
+<<<<<<< HEAD
 Hello
+=======
+Hello
+Fun
+>>>>>>> 1e85f4b20e9e84a9e5fe8fdcbfce64e3dd26c9fe
